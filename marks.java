@@ -12,7 +12,7 @@ class marks
     }
     void calc()
     {
-        double ans = (((( 30 / 100)*term1) + ((30 / 100)*term2) + (( 40 /100)*term3)))*100/500;
+        double ans = ((((( 30 / 100)*term1) + ((30 / 100)*term2) + (( 40 /100)*term3)))*100)/500;
 }
 void display()
 {
